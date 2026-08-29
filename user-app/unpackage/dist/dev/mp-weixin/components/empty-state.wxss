@@ -1,0 +1,16 @@
+
+.empty-state.data-v-b3994d1e {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding-top: 200rpx;
+}
+.empty-emoji.data-v-b3994d1e {
+  font-size: 120rpx;
+  line-height: 1.2;
+}
+.empty-text.data-v-b3994d1e {
+  margin-top: 24rpx;
+  font-size: 28rpx;
+  color: #8C8C8C;
+}

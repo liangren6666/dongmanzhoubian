@@ -1,0 +1,7 @@
+{
+  "navigationStyle": "custom",
+  "usingComponents": {
+    "icon-comp": "../../components/icon",
+    "custom-tabbar": "../../components/custom-tabbar"
+  }
+}

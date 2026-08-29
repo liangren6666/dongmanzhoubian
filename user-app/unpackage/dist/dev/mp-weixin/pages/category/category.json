@@ -1,0 +1,9 @@
+{
+  "navigationBarTitleText": "全部分类",
+  "usingComponents": {
+    "icon-comp": "../../components/icon",
+    "product-card": "../../components/product-card",
+    "empty-state": "../../components/empty-state",
+    "custom-tabbar": "../../components/custom-tabbar"
+  }
+}

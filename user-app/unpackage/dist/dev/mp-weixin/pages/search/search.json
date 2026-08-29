@@ -1,0 +1,8 @@
+{
+  "navigationStyle": "custom",
+  "usingComponents": {
+    "icon-comp": "../../components/icon",
+    "product-card": "../../components/product-card",
+    "empty-state": "../../components/empty-state"
+  }
+}

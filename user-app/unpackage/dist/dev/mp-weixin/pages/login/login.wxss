@@ -1,0 +1,121 @@
+
+.login-page.data-v-e4e4508d {
+  min-height: 100vh;
+  background-color: #FFFFFF;
+  position: relative;
+}
+.banner-swiper.data-v-e4e4508d {
+  width: 100%;
+  height: 300rpx;
+}
+.banner-img.data-v-e4e4508d {
+  width: 100%;
+  height: 300rpx;
+}
+.banner-fade.data-v-e4e4508d {
+  height: 60rpx;
+  margin-top: -60rpx;
+  background: linear-gradient(to bottom, rgba(255,255,255,0), #FFFFFF);
+  position: relative;
+  z-index: 1;
+}
+.logo-area.data-v-e4e4508d {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 20rpx 0 48rpx;
+}
+.logo-title.data-v-e4e4508d {
+  font-size: 48rpx;
+  font-weight: bold;
+  color: #E74860;
+}
+.logo-subtitle.data-v-e4e4508d {
+  font-size: 26rpx;
+  color: #8C8C8C;
+  margin-top: 12rpx;
+}
+.tab-switch.data-v-e4e4508d {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  gap: 80rpx;
+  margin-bottom: 48rpx;
+}
+.tab-item.data-v-e4e4508d {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  position: relative;
+  padding-bottom: 12rpx;
+}
+.tab-text.data-v-e4e4508d {
+  font-size: 32rpx;
+  color: #8C8C8C;
+}
+.tab-text.active.data-v-e4e4508d {
+  color: #1A1A1A;
+  font-weight: bold;
+}
+.tab-line.data-v-e4e4508d {
+  position: absolute;
+  bottom: 0;
+  width: 48rpx;
+  height: 4rpx;
+  background-color: #E74860;
+  border-radius: 2rpx;
+}
+.form-area.data-v-e4e4508d {
+  padding: 0 60rpx;
+}
+.input-wrap.data-v-e4e4508d {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  background-color: #F5F5F5;
+  border-radius: 8rpx;
+  padding: 0 24rpx;
+  height: 88rpx;
+  margin-bottom: 24rpx;
+}
+.input-icon.data-v-e4e4508d {
+  width: 40rpx;
+  height: 40rpx;
+  margin-right: 16rpx;
+  flex-shrink: 0;
+}
+.input-field.data-v-e4e4508d {
+  flex: 1;
+  height: 88rpx;
+  font-size: 28rpx;
+  color: #1A1A1A;
+}
+.input-placeholder.data-v-e4e4508d {
+  color: #BFBFBF;
+  font-size: 28rpx;
+}
+.btn-primary.data-v-e4e4508d {
+  width: 100%;
+  height: 88rpx;
+  background-color: #E74860;
+  border-radius: 44rpx;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-top: 48rpx;
+}
+.btn-primary.data-v-e4e4508d:active {
+  opacity: 0.85;
+}
+.btn-text.data-v-e4e4508d {
+  color: #FFFFFF;
+  font-size: 32rpx;
+  font-weight: bold;
+}
+.agreement-text.data-v-e4e4508d {
+  display: block;
+  text-align: center;
+  font-size: 22rpx;
+  color: #BFBFBF;
+  margin-top: 32rpx;
+}

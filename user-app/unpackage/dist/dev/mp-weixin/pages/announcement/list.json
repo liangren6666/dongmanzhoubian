@@ -1,0 +1,7 @@
+{
+  "navigationBarTitleText": "系统公告",
+  "usingComponents": {
+    "icon-comp": "../../components/icon",
+    "empty-state": "../../components/empty-state"
+  }
+}
